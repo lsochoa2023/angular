@@ -36,6 +36,7 @@ async function deployDocs() {
     console.log(`Exiting...`);
     process.exit(0);
   }
+  
 
   console.log('Doc site deployment information');
   console.log('');
